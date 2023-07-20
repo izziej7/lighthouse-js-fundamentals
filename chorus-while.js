@@ -10,5 +10,3 @@ while (repeat < 10) {
 }
 
 console.log("Until the sun comes up!");
-
-// Example 3
